@@ -1,0 +1,15 @@
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\sil.exe
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\sil.deps.json
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\sil.runtimeconfig.json
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\sil.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\sil.pdb
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\refint\sil.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.pdb
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\sil.genruntimeconfig.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\ref\sil.dll

@@ -1,0 +1,15 @@
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\Bakiye.exe
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\Bakiye.deps.json
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\Bakiye.runtimeconfig.json
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\Bakiye.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\bin\Debug\net6.0\Bakiye.pdb
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\refint\Bakiye.dll
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.pdb
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\Bakiye.genruntimeconfig.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\sil\obj\Debug\net6.0\ref\Bakiye.dll
